@@ -1,0 +1,137 @@
+﻿{
+  "modelName": "COM",
+  "route": "OBA_WIFI",
+  "station": "T14XB8MOBA01",
+  "sn": "0123456789",
+  "result": "PASS",
+  "errorCode": "",
+  "totalTime": 0.0,
+  "FunctionTime": [
+    {
+      "name": "ETH1",
+      "testTime": 0.0
+    },
+    {
+      "name": "INITIAL_SETUP",
+      "testTime": 0.0
+    },
+    {
+      "name": "WIFI2GCH1",
+      "testTime": 0.0
+    },
+    {
+      "name": "WIFI2GCH6",
+      "testTime": 0.0
+    },
+    {
+      "name": "WIFI2GCH11",
+      "testTime": 0.0
+    },
+    {
+      "name": "WIFI5GCH36",
+      "testTime": 0.0
+    },
+    {
+      "name": "WIFI5GCH48",
+      "testTime": 0.0
+    },
+    {
+      "name": "WIFI5GCH153",
+      "testTime": 0.0
+    },
+    {
+      "name": "WIFI6GCH5",
+      "testTime": 0.0
+    },
+    {
+      "name": "WIFI6GCH37",
+      "testTime": 0.0
+    },
+    {
+      "name": "WIFI6GCH197",
+      "testTime": 0.0
+    },
+    {
+      "name": "RESET",
+      "testTime": 0.0
+    },
+    {
+      "name": "TEST_T_TIME",
+      "testTime": 0.0
+    }
+  ],
+  "TestData": [
+    {
+      "itemName": "W2GTXCH01",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W2GRXCH01",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W2GTXCH06",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W2GRXCH06",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W2GTXCH11",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W2GRXCH11",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W5GTXCH36",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W5GRXCH36",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W5GTXCH48",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W5GRXCH48",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W5GTXCH153",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W5GRXCH153",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W6GTXCH05",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W6GRXCH05",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W6GTXCH37",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W6GRXCH37",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W6GTXCH197",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "W6GRXCH197",
+      "itemValue": 0.0
+    }
+  ]
+}

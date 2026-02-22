@@ -1,0 +1,7 @@
+COMVDK: COM5
+Type: T1
+COMVoip: COM3
+LineSignal: old
+USB2
+Lock: no
+LedPhone: no

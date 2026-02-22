@@ -1,0 +1,4 @@
+[CAMERA_DATA]
+
+CameraAttributes::AcquisitionAndTriggerControls::ExposureTimeAbs = 5449.38818
+setcamera = USER_ID

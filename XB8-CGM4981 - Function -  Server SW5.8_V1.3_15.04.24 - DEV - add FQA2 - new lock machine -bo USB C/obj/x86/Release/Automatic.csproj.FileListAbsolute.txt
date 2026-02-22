@@ -1,0 +1,1402 @@
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Automatic.exe
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Automatic.pdb
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\AutoClickPosition.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\CmdApp.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Com.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Geckofx-Core.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\ICMPPing.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\NAudio.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\sAudio.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\SnmpSharpNet.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Telnet.dll
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\WEBBROW.DLL
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\Automatic.exe
+E:\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\NAudio.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\sAudio.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\Telnet.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\Automatic\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\NAudio.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\sAudio.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\Telnet.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\Automatic - Copy\Automatic\bin\Release\Automatic.pdb
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\Automatic.exe.config
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\obj\x86\Release\Automatic.exe
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\obj\x86\Release\Automatic.pdb
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\Automatic.exe
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\Automatic.pdb
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\AutoClickPosition.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\CmdApp.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\Com.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\Geckofx-Core.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\ICMPPing.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\NAudio.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\sAudio.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\Telnet.dll
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\bin\Release\WEBBROW.DLL
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lap trinh\C#\chuong trinh moi\XB6Auto\2018.07.12\Automatic - Copy\Automatic\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\NAudio.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\sAudio.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\Telnet.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\NAudio.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\sAudio.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\Telnet.dll
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - Copy\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - chuan\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - chuan\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\2018.07.14\2018.07.13\Automatic - chuan\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\Automatic - chuan\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.18\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.24\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - chuan - fix4 2018.10.29\Automatic\obj\x86\Release\Automatic.pdb
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\Automatic.exe.config
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\Automatic.exe
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\Automatic.pdb
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\AutoClickPosition.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\cableConnectionsnmp.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\CmdApp.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\Com.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\Geckofx-Core.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\Geckofx-Winforms.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\ICMPPing.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\SnmpSharpNet.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\bin\Release\WEBBROW.DLL
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\obj\x86\Release\Automatic.Form1.resources
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\obj\x86\Release\Automatic.exe
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE\Automatic\obj\x86\Release\Automatic.pdb
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\Automatic.exe.config
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\Automatic.exe
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\Automatic.pdb
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\AutoClickPosition.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\cableConnectionsnmp.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\CmdApp.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\Com.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\Geckofx-Core.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\Geckofx-Winforms.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\ICMPPing.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\SnmpSharpNet.dll
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\bin\Release\WEBBROW.DLL
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.Form1.resources
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.exe
+D:\CHUONG TRINH TEST\XB6\Automatic - chuan - fix4 2018.10.29 SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.pdb
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\Automatic.exe.config
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\Automatic.exe
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\Automatic.pdb
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\AutoClickPosition.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\cableConnectionsnmp.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\CmdApp.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\Com.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\Geckofx-Core.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\Geckofx-Winforms.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\ICMPPing.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\SnmpSharpNet.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\bin\Release\WEBBROW.DLL
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.Form1.resources
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.exe
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic_chuan_fix4 2018.11.05\Automatic SFC ONLINE V1 - Copy\Automatic\obj\x86\Release\Automatic.pdb
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Automatic.exe.config
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Automatic.exe
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Automatic.pdb
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\AutoClickPosition.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\cableConnectionsnmp.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\CmdApp.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Com.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Geckofx-Core.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Geckofx-Winforms.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\ICMPPing.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\SnmpSharpNet.dll
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\WEBBROW.DLL
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\Automatic.Form1.resources
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\Automatic.exe
+D:\CHUONG TRINH TEST\XB6\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver02\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver03\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver04\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver05.02.01\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06\obj\x86\Release\Automatic.pdb
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\obj\x86\Release\Automatic.Form1.resources
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\Automatic.exe.config
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\Automatic.exe
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\Automatic.pdb
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\AutoClickPosition.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\cableConnectionsnmp.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\CmdApp.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\Com.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\Geckofx-Core.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\Geckofx-Winforms.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\ICMPPing.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\SnmpSharpNet.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\bin\Release\WEBBROW.DLL
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\obj\x86\Release\Automatic.exe
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06\obj\x86\Release\Automatic.pdb
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\obj\x86\Release\Automatic.Form1.resources
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\obj\x86\Release\Automatic.exe
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\obj\x86\Release\Automatic.pdb
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\Automatic.exe.config
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\Automatic.exe
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\Automatic.pdb
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\AutoClickPosition.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\cableConnectionsnmp.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\CmdApp.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\Com.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\Geckofx-Core.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\Geckofx-Winforms.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\ICMPPing.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\SnmpSharpNet.dll
+E:\lap trinh\C#\chuong trinh moi\Automatic - ver06.1\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.1\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\obj\x86\Release\GenerateResource.read.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.1.2.1.1.1\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\Automatic - ver06.2\obj\x86\Release\Automatic.pdb
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\Automatic.exe.config
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\Automatic.exe
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\Automatic.pdb
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\AutoClickPosition.dll
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\cableConnectionsnmp.dll
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\CmdApp.dll
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\Com.dll
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\Geckofx-Core.dll
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\Geckofx-Winforms.dll
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\ICMPPing.dll
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\SnmpSharpNet.dll
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\bin\Release\WEBBROW.DLL
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\obj\x86\Release\Automatic.Form1.resources
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\obj\x86\Release\Automatic.exe
+D:\lap trinh\c#\XB6 OBA Online\Automatic - ver06.2\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2-sfc\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - ver06.2.1-sfc\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.1-sfc\obj\x86\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\Automatic.exe.config
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\Automatic.pdb
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\AutoClickPosition.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\cableConnectionsnmp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\CmdApp.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\Com.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\Geckofx-Core.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\Geckofx-Winforms.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\ICMPPing.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\SnmpSharpNet.dll
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\bin\Release\WEBBROW.DLL
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\obj\x86\Release\Automatic.Form1.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\obj\x86\Release\Automatic.exe
+E:\lt\2018.05..08 ko co ban auto\New folder\Automatic SFC ONLINE V1 2018.11.08\New folder\Automatic - verPH 1.3-sfc\obj\x86\Release\Automatic.pdb
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\Automatic.exe.config
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\Automatic.exe
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\Automatic.pdb
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\AutoClickPosition.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\CmdApp.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\Com.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\Geckofx-Core.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\ICMPPing.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5\bin\Release\WEBBROW.DLL
+E:\lt\tien\New folder\Automatic - verPH 1.5\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\New folder\Automatic - verPH 1.5\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\New folder\Automatic - verPH 1.5\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\New folder\Automatic - verPH 1.5\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\New folder\Automatic - verPH 1.5\obj\x86\Release\Automatic.exe
+E:\lt\tien\New folder\Automatic - verPH 1.5\obj\x86\Release\Automatic.pdb
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\obj\x86\Release\Automatic.exe
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\obj\x86\Release\Automatic.pdb
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\Automatic.exe.config
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\Automatic.exe
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\Automatic.pdb
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\AutoClickPosition.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\CmdApp.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\Com.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\Geckofx-Core.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\ICMPPing.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\New folder\Automatic - verPH 1.5 - Copy\bin\Release\WEBBROW.DLL
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\Automatic.exe.config
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\Automatic.exe
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\Automatic.pdb
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\AutoClickPosition.dll
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\CmdApp.dll
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\Com.dll
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\Geckofx-Core.dll
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\ICMPPing.dll
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\bin\Release\WEBBROW.DLL
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\obj\x86\Release\Automatic.exe
+E:\lt\tien\New folder\Automatic - verPH 1.6 com\obj\x86\Release\Automatic.pdb
+E:\lt\tien\New folder\Automatic - COM\bin\Release\Automatic.exe.config
+E:\lt\tien\New folder\Automatic - COM\bin\Release\Automatic.exe
+E:\lt\tien\New folder\Automatic - COM\bin\Release\Automatic.pdb
+E:\lt\tien\New folder\Automatic - COM\bin\Release\AutoClickPosition.dll
+E:\lt\tien\New folder\Automatic - COM\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\New folder\Automatic - COM\bin\Release\CmdApp.dll
+E:\lt\tien\New folder\Automatic - COM\bin\Release\Com.dll
+E:\lt\tien\New folder\Automatic - COM\bin\Release\Geckofx-Core.dll
+E:\lt\tien\New folder\Automatic - COM\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\New folder\Automatic - COM\bin\Release\ICMPPing.dll
+E:\lt\tien\New folder\Automatic - COM\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\New folder\Automatic - COM\bin\Release\WEBBROW.DLL
+E:\lt\tien\New folder\Automatic - COM\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\New folder\Automatic - COM\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\New folder\Automatic - COM\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\New folder\Automatic - COM\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\New folder\Automatic - COM\obj\x86\Release\Automatic.exe
+E:\lt\tien\New folder\Automatic - COM\obj\x86\Release\Automatic.pdb
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\Automatic.exe.config
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\Automatic.exe
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\Automatic.pdb
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\AutoClickPosition.dll
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\CmdApp.dll
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\Com.dll
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\Geckofx-Core.dll
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\ICMPPing.dll
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\Xb7\Automatic - COM xb7\bin\Release\WEBBROW.DLL
+E:\lt\tien\Xb7\Automatic - COM xb7\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\Xb7\Automatic - COM xb7\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\Xb7\Automatic - COM xb7\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\Xb7\Automatic - COM xb7\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\Xb7\Automatic - COM xb7\obj\x86\Release\Automatic.exe
+E:\lt\tien\Xb7\Automatic - COM xb7\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_12.11.2019\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_16.11.2019\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_19\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_21.11.19 - khong moca\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xmoca - Copy\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619 - Copy\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_121219xlogin122619moca\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_MoCA - Online\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\cableConnectionsnmp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\SnmpSharpNet.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T15\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE\obj\x86\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Automatic.exe.config
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Automatic.pdb
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\AutoClickPosition.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\CmdApp.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Com.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Geckofx-Core.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Geckofx-Winforms.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\ICMPPing.dll
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\WEBBROW.DLL
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.Form1.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.Properties.Resources.resources
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.exe
+E:\lt\tien\XB7\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.pdb
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Automatic.exe.config
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Automatic.exe
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Automatic.pdb
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\AutoClickPosition.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\CmdApp.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Com.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Geckofx-Core.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\Geckofx-Winforms.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\ICMPPing.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\bin\Release\WEBBROW.DLL
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.Form1.resources
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.exe
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T10 - ERRORS CODE - Copy\obj\x86\Release\Automatic.pdb
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Automatic.exe.config
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Automatic.exe
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\AutoClickPosition.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\CmdApp.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Com.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Geckofx-Core.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Geckofx-Winforms.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\ICMPPing.dll
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\WEBBROW.DLL
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.Form1.resources
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.exe
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.pdb
+D:\lt\Automatic-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Automatic.pdb
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Automatic.exe.config
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Automatic.exe
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Automatic.pdb
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\AutoClickPosition.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\CmdApp.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Com.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Geckofx-Core.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\Geckofx-Winforms.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\ICMPPing.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\bin\Release\WEBBROW.DLL
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.Form1.resources
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.exe
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - ERRORS CODE\obj\x86\Release\Automatic.pdb
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\Automatic.exe.config
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\Automatic.exe
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\Automatic.pdb
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\AutoClickPosition.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\CmdApp.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\Com.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\Geckofx-Core.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\Geckofx-Winforms.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\ICMPPing.dll
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\bin\Release\WEBBROW.DLL
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\obj\x86\Release\Automatic.Form1.resources
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\obj\x86\Release\Automatic.exe
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\obj\x86\Release\Automatic.pdb
+D:\lt\COM-CGM4331COM_3.11s20_LED - T5 - FPY\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\Automatic.exe.config
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\Automatic.exe
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\Automatic.pdb
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\AutoClickPosition.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\CmdApp.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\Com.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\Geckofx-Core.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\Geckofx-Winforms.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\ICMPPing.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\bin\Release\WEBBROW.DLL
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\obj\x86\Release\Automatic.Form1.resources
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\obj\x86\Release\Automatic.exe
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 30.11.20v2\obj\x86\Release\Automatic.pdb
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\Automatic.exe.config
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\Automatic.exe
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\Automatic.pdb
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\AutoClickPosition.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\CmdApp.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\Com.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\Geckofx-Core.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\Geckofx-Winforms.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\ICMPPing.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\bin\Release\WEBBROW.DLL
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\obj\x86\Release\Automatic.Form1.resources
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\obj\x86\Release\Automatic.exe
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T5 - FPY 05.12.20v2\obj\x86\Release\Automatic.pdb
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\obj\x86\Release\Automatic.Form1.resources
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\obj\x86\Release\Automatic.exe
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\obj\x86\Release\Automatic.pdb
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\Automatic.exe.config
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\Automatic.exe
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\Automatic.pdb
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\AutoClickPosition.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\CmdApp.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\Com.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\Geckofx-Core.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\Geckofx-Winforms.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\ICMPPing.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - T10 - FPY 07.12.20v3\bin\Release\WEBBROW.DLL
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\Automatic.exe.config
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\Automatic.exe
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\Automatic.pdb
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\AutoClickPosition.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\CmdApp.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\Com.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\Geckofx-Core.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\Geckofx-Winforms.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\ICMPPing.dll
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\bin\Release\WEBBROW.DLL
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\obj\x86\Release\Automatic.exe
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\obj\x86\Release\Automatic.pdb
+D:\DATA\COM-CGM4331COM_3.11s20_LED - ALL- FPY 07.12.20v3\obj\x86\Release\Automatic.ProForm.resources
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\Automatic.exe.config
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\Automatic.exe
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\Automatic.pdb
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\AutoClickPosition.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\CmdApp.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\Com.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\Geckofx-Core.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\Geckofx-Winforms.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\ICMPPing.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\bin\Release\WEBBROW.DLL
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\obj\x86\Release\Automatic.ProForm.resources
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\obj\x86\Release\Automatic.exe
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3\obj\x86\Release\Automatic.pdb
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Automatic.exe.config
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Automatic.exe
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Automatic.pdb
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\AutoClickPosition.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\CmdApp.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Com.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Geckofx-Core.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Geckofx-Winforms.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\ICMPPing.dll
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\WEBBROW.DLL
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.ProForm.resources
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.exe
+D:\DATA\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.pdb
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Automatic.exe.config
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Automatic.exe
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Automatic.pdb
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\AutoClickPosition.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\CmdApp.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Com.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Geckofx-Core.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\Geckofx-Winforms.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\ICMPPing.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\bin\Release\WEBBROW.DLL
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.ProForm.resources
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.exe
+D:\C# Program\XB7-CGM4331COM_3.11s20_LED - FPY 26.12.20v3 - Copy\obj\x86\Release\Automatic.pdb
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Automatic.exe.config
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Automatic.exe
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Automatic.pdb
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\AutoClickPosition.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\CmdApp.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Com.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Geckofx-Core.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Geckofx-Winforms.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\ICMPPing.dll
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\WEBBROW.DLL
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.ProForm.resources
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.exe
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.pdb
+D:\C# Program\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Automatic.exe.config
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Automatic.exe
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Automatic.pdb
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\AutoClickPosition.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\CmdApp.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Com.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Geckofx-Core.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\Geckofx-Winforms.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\ICMPPing.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\bin\Release\WEBBROW.DLL
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.ProForm.resources
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.exe
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.pdb
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL - FPY 30.12.20v3 - Function\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Automatic.exe.config
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Automatic.exe
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Automatic.pdb
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\AutoClickPosition.dll
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\CmdApp.dll
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Com.dll
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Geckofx-Core.dll
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Geckofx-Winforms.dll
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\ICMPPing.dll
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\WEBBROW.DLL
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.ProForm.resources
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.exe
+D:\C# Program\nian\V1-20.3.2021\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.pdb
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Automatic.exe.config
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Automatic.exe
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Automatic.pdb
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\AutoClickPosition.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\CmdApp.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Com.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Geckofx-Core.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\Geckofx-Winforms.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\ICMPPing.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\bin\Release\WEBBROW.DLL
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.ProForm.resources
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.exe
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function\obj\x86\Release\Automatic.pdb
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\Automatic.exe.config
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\Automatic.exe
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\Automatic.pdb
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\AutoClickPosition.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\CmdApp.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\Com.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\Geckofx-Core.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\Geckofx-Winforms.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\ICMPPing.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\bin\Release\WEBBROW.DLL
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\obj\x86\Release\Automatic.ProForm.resources
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\obj\x86\Release\Automatic.exe
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function - Copy SW DVE\obj\x86\Release\Automatic.pdb
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\Automatic.exe.config
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\Automatic.exe
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\Automatic.pdb
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\AutoClickPosition.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\CmdApp.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\Com.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\Geckofx-Core.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\Geckofx-Winforms.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\ICMPPing.dll
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\bin\Release\WEBBROW.DLL
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\obj\x86\Release\Automatic.ProForm.resources
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\obj\x86\Release\Automatic.Properties.Resources.resources
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\obj\x86\Release\Automatic.exe
+D:\C# Program\nian\XB7-CGM4331COM_3.11s20_ALL DHCP-IP - Function -SW DEV\obj\x86\Release\Automatic.pdb
+F:\Other\XB8-CGM4981\XB8-CGM4981 - Function -  Server SW5.8_V1.3_15.04.24 - DEV - add FQA2 - new lock machine -bo USB C\obj\x86\Release\Automatic.csprojResolveAssemblyReference.cache
+F:\Other\XB8-CGM4981\XB8-CGM4981 - Function -  Server SW5.8_V1.3_15.04.24 - DEV - add FQA2 - new lock machine -bo USB C\obj\x86\Release\Automatic.ProForm.resources
+F:\Other\XB8-CGM4981\XB8-CGM4981 - Function -  Server SW5.8_V1.3_15.04.24 - DEV - add FQA2 - new lock machine -bo USB C\obj\x86\Release\Automatic.Login_Lock.resources
+F:\Other\XB8-CGM4981\XB8-CGM4981 - Function -  Server SW5.8_V1.3_15.04.24 - DEV - add FQA2 - new lock machine -bo USB C\obj\x86\Release\Automatic.Properties.Resources.resources
+F:\Other\XB8-CGM4981\XB8-CGM4981 - Function -  Server SW5.8_V1.3_15.04.24 - DEV - add FQA2 - new lock machine -bo USB C\obj\x86\Release\Automatic.csproj.GenerateResource.Cache
+F:\Other\XB8-CGM4981\XB8-CGM4981 - Function -  Server SW5.8_V1.3_15.04.24 - DEV - add FQA2 - new lock machine -bo USB C\obj\x86\Release\Automatic.exe
+F:\Other\XB8-CGM4981\XB8-CGM4981 - Function -  Server SW5.8_V1.3_15.04.24 - DEV - add FQA2 - new lock machine -bo USB C\obj\x86\Release\Automatic.pdb

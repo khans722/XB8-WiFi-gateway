@@ -1,0 +1,378 @@
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\Automatic.exe.config
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\obj\x86\Debug\Automatic.exe
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\obj\x86\Debug\Automatic.pdb
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\Automatic.exe
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\Automatic.pdb
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\AutoClickPosition.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\CmdApp.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\Com.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\Geckofx-Core.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\Geckofx-Winforms.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\ICMPPing.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\NAudio.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\sAudio.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\Telnet.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\bin\Debug\WEBBROW.DLL
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\obj\x86\Debug\Automatic.ProForm.resources
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\obj\x86\Debug\Automatic.Login_Lock.resources
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\C# Progarm\nian\XB8-CGM4981 - Function - Copy\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\Automatic.exe.config
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\obj\x86\Debug\Automatic.exe
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\obj\x86\Debug\Automatic.pdb
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\Automatic.exe
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\Automatic.pdb
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\AutoClickPosition.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\CmdApp.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\Com.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\Geckofx-Core.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\Geckofx-Winforms.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\ICMPPing.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\NAudio.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\sAudio.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\Telnet.dll
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\bin\Debug\WEBBROW.DLL
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\obj\x86\Debug\Automatic.ProForm.resources
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\obj\x86\Debug\Automatic.Login_Lock.resources
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\C# Progarm\nian\XB8-CGM4981 - Function -GR&R\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Automatic.exe.config
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.ProForm.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\AutoClickPosition.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\CmdApp.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Com.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Geckofx-Core.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Geckofx-Winforms.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\ICMPPing.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\NAudio.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\sAudio.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Telnet.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\WEBBROW.DLL
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Newtonsoft.Json.xml
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Automatic.exe.config
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.exe
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.pdb
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Automatic.exe
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Automatic.pdb
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\aa-ET\Automatic.resources.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\AutoClickPosition.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\CmdApp.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Com.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Geckofx-Core.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Geckofx-Winforms.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\ICMPPing.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\NAudio.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\sAudio.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Telnet.dll
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\WEBBROW.DLL
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\bin\Debug\Newtonsoft.Json.xml
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.ProForm.resources
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\Test_Program\XB8-CGM4981 - Function -OBA WiFi\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\Automatic.exe.config
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\obj\x86\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\obj\x86\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\AutoClickPosition.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\CmdApp.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\Com.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\Geckofx-Core.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\Geckofx-Winforms.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\ICMPPing.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\WEBBROW.DLL
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\bin\Debug\Newtonsoft.Json.xml
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\obj\x86\Debug\Automatic.ProForm.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\Automatic.exe.config
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\obj\x86\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\obj\x86\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\AutoClickPosition.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\CmdApp.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\Com.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\Geckofx-Core.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\Geckofx-Winforms.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\ICMPPing.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\WEBBROW.DLL
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\obj\x86\Debug\Automatic.ProForm.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Server - Copy\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\Automatic.exe.config
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\obj\x86\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\obj\x86\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\AutoClickPosition.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\CmdApp.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\Com.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\Geckofx-Core.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\Geckofx-Winforms.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\ICMPPing.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\WEBBROW.DLL
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\bin\Debug\Newtonsoft.Json.xml
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\obj\x86\Debug\Automatic.ProForm.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\Automatic.exe.config
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\obj\x86\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\obj\x86\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\AutoClickPosition.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\CmdApp.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\Com.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\Geckofx-Core.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\Geckofx-Winforms.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\ICMPPing.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\bin\Debug\WEBBROW.DLL
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\obj\x86\Debug\Automatic.ProForm.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\Automatic.exe.config
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\obj\x86\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\obj\x86\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\AutoClickPosition.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\CmdApp.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\Com.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\Geckofx-Core.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\Geckofx-Winforms.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\ICMPPing.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\bin\Debug\WEBBROW.DLL
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\obj\x86\Debug\Automatic.ProForm.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - Copy\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Automatic.exe.config
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Automatic.exe
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Automatic.pdb
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\AutoClickPosition.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\CmdApp.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Com.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Geckofx-Core.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Geckofx-Winforms.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\ICMPPing.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\WEBBROW.DLL
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.ProForm.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\nian\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Automatic.exe.config
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.exe
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.pdb
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Automatic.exe
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Automatic.pdb
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\aa-ET\Automatic.resources.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\AutoClickPosition.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\CmdApp.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Com.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Geckofx-Core.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\Geckofx-Winforms.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\ICMPPing.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\bin\Debug\WEBBROW.DLL
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.ProForm.resources
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Automatic.exe.config
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.exe
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.pdb
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.ProForm.resources
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Automatic.exe
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Automatic.pdb
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\aa-ET\Automatic.resources.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\AutoClickPosition.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\CmdApp.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Com.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Geckofx-Core.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Geckofx-Winforms.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\ICMPPing.dll
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\WEBBROW.DLL
+D:\Conal\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Automatic.exe.config
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.exe
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.pdb
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Automatic.exe
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Automatic.pdb
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\aa-ET\Automatic.resources.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\AutoClickPosition.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\CmdApp.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Com.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Geckofx-Core.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\Geckofx-Winforms.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\ICMPPing.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\bin\Debug\WEBBROW.DLL
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.ProForm.resources
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - Copy\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\Automatic.exe.config
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\obj\x86\Debug\Automatic.exe
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\obj\x86\Debug\Automatic.pdb
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\Automatic.exe
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\Automatic.pdb
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\aa-ET\Automatic.resources.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\AutoClickPosition.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\CmdApp.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\Com.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\Geckofx-Core.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\Geckofx-Winforms.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\ICMPPing.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\bin\Debug\WEBBROW.DLL
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\obj\x86\Debug\Automatic.ProForm.resources
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1\obj\x86\Debug\aa-ET\Automatic.resources.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Automatic.exe.config
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.exe
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.pdb
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Automatic.exe
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Automatic.pdb
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\aa-ET\Automatic.resources.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\AutoClickPosition.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\CmdApp.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Com.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Geckofx-Core.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Geckofx-Winforms.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\ICMPPing.dll
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\WEBBROW.DLL
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.csprojResolveAssemblyReference.cache
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.ProForm.resources
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.Properties.Resources.resources
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.csproj.GenerateResource.Cache
+D:\Program\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\aa-ET\Automatic.resources.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Automatic.exe.config
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Automatic.exe
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Automatic.pdb
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\aa-ET\Automatic.resources.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\AutoClickPosition.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\CmdApp.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Com.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Geckofx-Core.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\Geckofx-Winforms.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\ICMPPing.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\bin\Debug\WEBBROW.DLL
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.ProForm.resources
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.Properties.Resources.resources
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.csproj.GenerateResource.cache
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.csproj.CoreCompileInputs.cache
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\aa-ET\Automatic.resources.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.csproj.CopyComplete
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.exe
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - Copy\obj\x86\Debug\Automatic.pdb
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\Automatic.exe.config
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\Automatic.exe
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\Automatic.pdb
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\aa-ET\Automatic.resources.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\AutoClickPosition.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\CmdApp.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\Com.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\Geckofx-Core.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\Geckofx-Winforms.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\ICMPPing.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\bin\Debug\WEBBROW.DLL
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\obj\x86\Debug\Automatic.ProForm.resources
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\obj\x86\Debug\Automatic.Properties.Resources.resources
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\obj\x86\Debug\Automatic.csproj.GenerateResource.cache
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\obj\x86\Debug\Automatic.csproj.CoreCompileInputs.cache
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\obj\x86\Debug\aa-ET\Automatic.resources.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\obj\x86\Debug\Automatic.csproj.CopyComplete
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\obj\x86\Debug\Automatic.exe
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting\obj\x86\Debug\Automatic.pdb
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Automatic.exe.config
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Automatic.exe
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Automatic.pdb
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\aa-ET\Automatic.resources.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\AutoClickPosition.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\CmdApp.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Com.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Geckofx-Core.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Geckofx-Winforms.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\ICMPPing.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\WEBBROW.DLL
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.ProForm.resources
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.Properties.Resources.resources
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.csproj.GenerateResource.cache
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.csproj.CoreCompileInputs.cache
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\aa-ET\Automatic.resources.dll
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.csproj.CopyComplete
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.exe
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.pdb
+E:\PROGRAM\XB8\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.csproj.AssemblyReference.cache
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Automatic.exe.config
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Automatic.exe
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Automatic.pdb
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\aa-ET\Automatic.resources.dll
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\AutoClickPosition.dll
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\CmdApp.dll
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Com.dll
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Geckofx-Core.dll
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\Geckofx-Winforms.dll
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\ICMPPing.dll
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\bin\Debug\WEBBROW.DLL
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.ProForm.resources
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.Properties.Resources.resources
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.ProForm.aa-ET.resources
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.csproj.GenerateResource.cache
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.csproj.CoreCompileInputs.cache
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\aa-ET\Automatic.resources.dll
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.csproj.CopyComplete
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.exe
+E:\PROGRAM\XB8\SW cu\XB8-CGM4981 - Function -OBA WiFi Final - New SW5.8 - 5.6G 1 sample - V1.1 - new setting - Hw new 2.3\obj\x86\Debug\Automatic.pdb

@@ -1,0 +1,113 @@
+﻿{
+  "modelName": "CGM4981COM",
+  "route": "OBAFUNCTION",
+  "station": "T01XB8OBA001",
+  "sn": "368930042161112660",
+  "result": "PASS",
+  "errorCode": "",
+  "totalTime": 758.0,
+  "FunctionTime": [
+    {
+      "name": "ETH_1",
+      "testTime": 3.26
+    },
+    {
+      "name": "ETH_2",
+      "testTime": 2.45
+    },
+    {
+      "name": "ETH_3",
+      "testTime": 2.44
+    },
+    {
+      "name": "ETH_4",
+      "testTime": 2.45
+    },
+    {
+      "name": "INFORMATION",
+      "testTime": 6.55
+    },
+    {
+      "name": "INITIAL_SETUP",
+      "testTime": 51.0
+    },
+    {
+      "name": "USB_C",
+      "testTime": 14.57
+    },
+    {
+      "name": "LED_ONLINE",
+      "testTime": 27.7
+    },
+    {
+      "name": "LED_WPS",
+      "testTime": 25.58
+    },
+    {
+      "name": "LED_GREEN",
+      "testTime": 14.58
+    },
+    {
+      "name": "LED_RED",
+      "testTime": 14.58
+    },
+    {
+      "name": "ZIGBEE",
+      "testTime": 17.89
+    },
+    {
+      "name": "VOIP_12",
+      "testTime": 80.36
+    },
+    {
+      "name": "VOIP_21",
+      "testTime": 100.38
+    },
+    {
+      "name": "MOCA",
+      "testTime": 17.12
+    },
+    {
+      "name": "LABEL",
+      "testTime": 16.12
+    },
+    {
+      "name": "RTD",
+      "testTime": 168.94
+    }
+  ],
+  "TestData": [
+    {
+      "itemName": "Online_R",
+      "itemValue": 98.667
+    },
+    {
+      "itemName": "Online_G",
+      "itemValue": 104.5
+    },
+    {
+      "itemName": "Online_B",
+      "itemValue": 52.222
+    },
+    {
+      "itemName": "Online_X",
+      "itemValue": 0.443
+    },
+    {
+      "itemName": "Online_Y",
+      "itemValue": 0.406
+    },
+    {
+      "itemName": "WPS_R",
+      "itemValue": 0.0
+    },
+    {
+      "itemName": "WPS_G",
+      "itemValue": 11.0
+    },
+    {
+      "itemName": "WPS_B",
+      "itemValue": 244.0
+    }
+  ]
+}
